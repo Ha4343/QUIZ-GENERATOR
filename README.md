@@ -20,6 +20,4 @@ Ensure you have Python installed. Install Tkinter (usually comes pre-installed) 
 - Implement a **leaderboard** to track high scores
 - Include more tech topics like **Data Structures & Algorithms**
 
-## Contribution
-Want to improve this project? Feel free to fork it, add questions, and submit a PR! 💡
 
